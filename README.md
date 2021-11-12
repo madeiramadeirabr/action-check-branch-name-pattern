@@ -1,0 +1,1 @@
+# action-check-branch-name-pattern
