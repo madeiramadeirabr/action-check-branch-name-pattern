@@ -1,0 +1,9 @@
+name: 'check-pr-title'
+description: 'Check Pull Request Title'
+on: [pull_request]
+outputs:
+  RESULT:
+    description: 'Verified Title Pull Request'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
