@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: action-check-branch-name-pattern
+  annotations:
+    github.com/project-slug: madeiramadeirabr/action-check-branch-name-pattern
+spec:
+  type: other
+  lifecycle: unknown
+  owner: SRE/Arquitetura
