@@ -26,5 +26,3 @@ jobs:
     steps:      
         uses: madeiramadeirabr/action-check-branch-name-pattern@v1
 ```
-
-...
