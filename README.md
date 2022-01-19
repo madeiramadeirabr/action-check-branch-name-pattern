@@ -1,4 +1,4 @@
-![img](https://github.com/madeiramadeirabr/action-check-title-pr-pattern/blob/production/img/Validate%20the%20Title%20Structure%20of%20a%20Pull%20Request.svg)
+![img](https://github.com/madeiramadeirabr/action-check-title-pr-pattern/blob/production/img/validate-the-title-structure-of-a-pull-request.svg)
 
 # Title Structure Validation of a PR
 _Action that validates the Title structure of a Pull Request_
