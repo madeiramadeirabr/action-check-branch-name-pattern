@@ -4,7 +4,7 @@
    viewBox="0 0 1440 360"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="Action Check Title PR Pattern-3.svg"
+   sodipodi:docname="Action Check Title PR Pattern-34.svg"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,7 +22,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="725.5"
+     inkscape:cx="804.5"
      inkscape:cy="147.5"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
@@ -243,20 +243,20 @@
       <path
          stroke-linecap="round"
          fill="none"
-         d="m 1381.1558,-140.20573 0.7966,276.12341"
+         d="m 1391.9255,-294.81305 1.8246,693.25438"
          stroke="#7bb7ff"
          id="path1428"
-         style="stroke-width:3.47733" />
+         style="stroke-width:4.02244" />
       <path
          stroke-linecap="round"
          fill="none"
-         d="M 244.77119,148.22206 H 1272.2879"
+         d="M 244.70533,148.22206 H 1238.7134"
          stroke="#7bb7ff"
          id="path1428-3"
-         style="stroke-width:4.02225" />
+         style="stroke-width:3.95612" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:Loma;letter-spacing:3.03px;word-spacing:-5.35px;opacity:0.468384;mix-blend-mode:normal;fill:#6caffd;fill-opacity:1;stroke:none;filter:url(#filter146486)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:Loma;letter-spacing:3.03px;word-spacing:-5.35px;opacity:0.31883448;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter146486)"
          x="439.66208"
          y="93.709579"
          id="text4474"><tspan
@@ -267,39 +267,39 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:'Loma Bold';letter-spacing:3.03px;word-spacing:-5.35px;fill:#2188ff;fill-opacity:1;stroke:none"
-         x="435.42761"
-         y="89.200958"
+         x="435.64374"
+         y="91.940155"
          id="text4474-3"><tspan
            sodipodi:role="line"
            id="tspan4472-8"
-           x="435.42761"
-           y="89.200958">Action Check Title PR Pattern</tspan></text>
+           x="435.64374"
+           y="91.940155">Action Check Title PR Pattern</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:1.24px;word-spacing:-1.1px;opacity:0.335222;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter270132)"
-         x="382.29785"
-         y="243.94136"
+         x="382.37195"
+         y="229.27321"
          id="text194839-9"><tspan
            sodipodi:role="line"
            id="tspan194837-6"
-           x="382.29785"
-           y="243.94136"
+           x="382.37195"
+           y="229.27321"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Loma;-inkscape-font-specification:'Loma Bold';fill:#000000;fill-opacity:1">Action that validates the title structure of a Pull Request</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:1.24px;word-spacing:-1.1px;fill:#2188ff;fill-opacity:1;stroke:none"
-         x="384.23697"
-         y="243.16185"
+         x="381.29227"
+         y="226.56914"
          id="text194839"><tspan
            sodipodi:role="line"
            id="tspan194837"
-           x="384.23697"
-           y="243.16185"
+           x="381.29227"
+           y="226.56914"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Loma;-inkscape-font-specification:'Loma Bold';fill:#2188ff;fill-opacity:1">Action that validates the title structure of a Pull Request</tspan></text>
       <g
          clip-path="url(#c)"
          id="g1426"
-         transform="matrix(1.2840362,0,0,1.2041567,-119.80639,-34.557198)">
+         transform="matrix(1.2840362,0,0,1.2413695,-118.81872,-36.559584)">
         <g
            mask="url(#d)"
            id="g1424">
@@ -320,7 +320,7 @@
       <g
          clip-path="url(#g)"
          id="g83"
-         transform="matrix(1.1989425,0,0,1.1257531,-101.43972,-17.196515)">
+         transform="matrix(1.2257314,0,0,1.1887431,-106.78161,-26.239466)">
         <g
            clip-path="url(#h)"
            id="g81">
