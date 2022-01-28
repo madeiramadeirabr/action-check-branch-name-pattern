@@ -4,7 +4,7 @@
    viewBox="0 0 1440 360"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="Action Check Title PR Pattern-34.svg"
+   sodipodi:docname="Action Check Title PR Pattern.svg"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -32,6 +32,12 @@
      inkscape:current-layer="g1478" />
   <defs
      id="defs1232">
+    <rect
+       x="503.65777"
+       y="-37.994507"
+       width="856.68805"
+       height="192.17255"
+       id="rect504277" />
     <rect
        x="1433.6166"
        y="-69.083313"
@@ -250,30 +256,30 @@
       <path
          stroke-linecap="round"
          fill="none"
-         d="M 244.70533,148.22206 H 1238.7134"
+         d="M 244.74042,148.22206 H 1256.5372"
          stroke="#7bb7ff"
          id="path1428-3"
-         style="stroke-width:3.95612" />
+         style="stroke-width:3.99136" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:Loma;letter-spacing:3.03px;word-spacing:-5.35px;opacity:0.31883448;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter146486)"
-         x="439.66208"
-         y="93.709579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:Loma;letter-spacing:0.79px;word-spacing:-5.35px;opacity:0.318834;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter146486)"
+         x="487.01193"
+         y="92.755936"
          id="text4474"><tspan
            sodipodi:role="line"
            id="tspan4472"
-           x="439.66208"
-           y="93.709579">Action Check Title PR Pattern</tspan></text>
+           x="487.01193"
+           y="92.755936">Action Check Title PR Pattern</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:'Loma Bold';letter-spacing:3.03px;word-spacing:-5.35px;fill:#2188ff;fill-opacity:1;stroke:none"
-         x="435.64374"
-         y="91.940155"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:'Loma Bold';letter-spacing:0.79px;word-spacing:-5.35px;fill:#2188ff;fill-opacity:1;stroke:none"
+         x="491.36023"
+         y="92.098267"
          id="text4474-3"><tspan
            sodipodi:role="line"
            id="tspan4472-8"
-           x="435.64374"
-           y="91.940155">Action Check Title PR Pattern</tspan></text>
+           x="491.36023"
+           y="92.098267">Action Check Title PR Pattern</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:1.24px;word-spacing:-1.1px;opacity:0.335222;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter270132)"
@@ -347,6 +353,11 @@
          transform="translate(-119.87806,-30.118638)"
          id="text412233"
          style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect412235)" />
+      <text
+         xml:space="preserve"
+         transform="translate(-119.87806,-30.118638)"
+         id="text504275"
+         style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect504277)" />
     </g>
   </g>
 </svg>
