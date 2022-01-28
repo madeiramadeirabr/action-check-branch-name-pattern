@@ -1,26 +1,25 @@
 ![img](https://github.com/madeiramadeirabr/action-check-title-pr-pattern/blob/production/img/validate-the-title-structure-of-a-pull-request.svg)
+# action-check-title-pr-pattern
 
-# Title Structure Validation of a PR
-_Action that validates the Title structure of a Pull Request_
+## Descrição
+Action que valida:
+- Título da Pull-Request está no padrão definido
 
-## Squad Owner
-[SRE](https://github.com/orgs/madeiramadeirabr/teams/squad-sre-architecture-carpentry 'SRE')
+## Contexto de negócio:
+Irá compor a estrutura padrão que está sendo desenvolvida para o CI/CD da [MadeiraMadeira](https://github.com/madeiramadeirabr 'MadeiraMadeira'), sendo aplicável a todos os Projetos Novos (e "antigos").
 
+## Squad:
+[SRE-Architecture-Carpentry](https://github.com/orgs/madeiramadeirabr/teams/squad-sre-architecture-carpentry 'SRE-Architecture-Carpentry')
 
-*STANDARD:*
+## Requisitos:
+1. Título da Pull Request precisa estar no padrão:
 ```bash
-    tipo(PREFIX-00): Descrição.
+tipo(PREFIX-00): mensagem.
 ```
 
+> *Exemplo*: `feat(SRE-159): implements Swagger.`
 
-
-_*Example:*_
-```bash
-    feat(ISSUE-159): Implements Swagger.
-```
-
-
-Example use:
+## Exemplo de uso (da action):
 ```yml
 jobs:
   check-title-pull-request:
