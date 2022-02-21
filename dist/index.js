@@ -8477,18 +8477,14 @@ async function run() {
 
         let PRDefault = /[a-z]+\([A-Z]+-\d+\):.*/
         let PRHotFix = /(hotfix)+\:.*/
+        
 
-        let validateTitle = PRDefault.test(titlePR)
-        let validateHotFix = PRHotFix.test(titlePR)
-
-        if ( validateTitle == false && validateHotFix == false) {
-            core.setFailed('ERRO. Título da Pull Request não está no padrão.\n"tipoPR(IDJIRA): Descrição." ou "hotfix: descrição."')
-        } else if (validateTitle == true && validateHotFix == false) {
-            console.log('Título permite que a GMUD seja criada.')
-            return true
-        } else if (validateTitle == false && validateHotFix == true) {
-            console.log('Hotfix, não será criada a GMUD.')
-            return true
+        if (PRDefault.test(titlePR)) {
+            console.log("GMUD")
+        } else if (PRHotFix.test(titlePR)) {
+            console.log("Hotfix")
+        } else {
+            core.setFailed('ERRO. Título da Pull Request não está no padrão.\ntipoPR(IDJIRA): Descrição.')
         }
 
     } catch (e) {
