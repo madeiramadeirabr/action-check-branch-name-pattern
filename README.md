@@ -9,7 +9,7 @@ Action que valida:
 Irá compor a estrutura padrão que está sendo desenvolvida para o CI/CD da [MadeiraMadeira](https://github.com/madeiramadeirabr 'MadeiraMadeira'), sendo aplicável a todos os Projetos Novos (e "antigos").
 
 ## Squad:
-[Team-Platform-Services](https://github.com/orgs/madeiramadeirabr/teams/team-platform-services 'Team-Platform-Services')
+[SRE-Architecture-Carpentry](https://github.com/orgs/madeiramadeirabr/teams/squad-sre-architecture-carpentry 'SRE-Architecture-Carpentry')
 
 ## Requisitos:
 1. Título da Pull Request precisa estar no padrão:
@@ -24,6 +24,7 @@ tipo(PREFIX-00): mensagem.
 > *Exemplo de Título:* `hotfix: ajustes no retorno do JSON.`
 
 ---
+
 ## Exemplo de uso (da action):
 ```yml
 jobs:
