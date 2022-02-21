@@ -19,6 +19,12 @@ tipo(PREFIX-00): mensagem.
 
 > *Exemplo*: `feat(SRE-159): implements Swagger.`
 
+---
+>⚠️ Action permite a criação de Pull Requests do tipo "hotfix".
+> *Exemplo de Título:* `hotfix: ajustes no retorno do JSON.`
+
+---
+
 ## Exemplo de uso (da action):
 ```yml
 jobs:
