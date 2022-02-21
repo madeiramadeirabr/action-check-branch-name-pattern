@@ -10,9 +10,9 @@ async function run() {
         
 
         if (PRDefault.test(titlePR)) {
-            console.log("GMUD")
+            console.log("GMUD será criada.")
         } else if (PRHotFix.test(titlePR)) {
-            console.log("Hotfix")
+            console.log("Hotfix, não será criada a GMUD.")
         } else {
             core.setFailed('ERRO. Título da Pull Request não está no padrão.\ntipoPR(IDJIRA): Descrição.')
         }
