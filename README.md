@@ -32,5 +32,5 @@ jobs:
     runs-on: ubuntu-latest
     name: 'check-title-pull-request'
     steps:      
-        - uses: madeiramadeirabr/action-check-title-pr-pattern@1.0.1
+        - uses: madeiramadeirabr/action-check-title-pr-pattern@1.0.2
 ```
