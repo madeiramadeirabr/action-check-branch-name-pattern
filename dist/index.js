@@ -9672,7 +9672,7 @@ async function run() {
         let titlePR = github.context.payload.pull_request.title;
 
         const PRDefault = /[a-z]+\([A-Z]+-\d+\):.*/
-        const PRHotFix = /(hotfix)+\:.*/
+        const PRHotFix = /\(hotfix\)+\:.*/
         
         if ( !PRDefault.test(titlePR) && !PRHotFix.test(titlePR)) {
             core.setFailed('ERRO. Título da Pull Request não está no padrão.\n"tipoPR(IDJIRA): Descrição." ou "hotfix: descrição."')
