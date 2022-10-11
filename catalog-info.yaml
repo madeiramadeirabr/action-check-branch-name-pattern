@@ -2,16 +2,14 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: action-check-title-pr-pattern
-  description: |
-    Github Action que valida formato do título de uma Pull Request.
+  description: Github Action que valida formato do título de uma Pull Request.
   annotations:
     github.com/project-slug: madeiramadeirabr/action-check-title-pr-pattern
     sonarqube.org/project-key: madeiramadeirabr/action-check-title-pr-pattern
-    backstage.io/techdocs-ref: dir:.
   tags:
   - javascript
   - github-action
 spec:
   type: library
   lifecycle: production
-  owner: team-platform-services
+  owner: team-platform-engineering-admin
