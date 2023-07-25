@@ -9,7 +9,7 @@ async function run() {
         const PRHotFix = /\(hotfix\)+\:.*/
         
         if ( !PRDefault.test(titlePR) && !PRHotFix.test(titlePR)) {
-            core.setFailed('ERRO. Título da Pull Request não está no padrão.\n"tipoPR(IDJIRA): Descrição." ou "hotfix: descrição."')
+            core.setFailed('ERRO. Título da Pull Request não está no padrão.\n"tipoPR(IDJIRA): Descrição." ou "(hotfix): descrição."')
         }
         
         if (PRDefault.test(titlePR) || PRHotFix.test(titlePR)) {
